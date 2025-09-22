@@ -1,5 +1,5 @@
-export const resumes : {}[] = [{
-    
+export const resumes: Resume[] = [
+  {
     id: "1",
     companyName: "Google",
     jobTitle: "Frontend Developer",
@@ -28,6 +28,10 @@ export const resumes : {}[] = [{
         tips: [],
       },
     },
+    title: "",
+    description: "",
+    location: "",
+    requiredSkills: []
   },
   {
     id: "2",
@@ -58,6 +62,10 @@ export const resumes : {}[] = [{
         tips: [],
       },
     },
+    title: "",
+    description: "",
+    location: "",
+    requiredSkills: []
   },
   {
     id: "3",
@@ -88,6 +96,10 @@ export const resumes : {}[] = [{
         tips: [],
       },
     },
+    title: "",
+    description: "",
+    location: "",
+    requiredSkills: []
   },
 ];
 
